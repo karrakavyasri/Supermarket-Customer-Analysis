@@ -33,5 +33,10 @@ The insights from this analysis can help supermarkets improve marketing strategi
 1. **Customer Segmentation Graph** – groups customers based on income and spending score  
 2. **Product Buying Pattern Graph** – shows most frequently purchased products  
 3. **Product Combination Graph** – visualizes relationships between products bought together  
+<img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/08688e6d-c96d-41d0-906b-be37f0c2a313" />
 
 ---
+## 🙌 Acknowledgment
+
+This project is created as part of learning Data Analysis and Visualization.
+
