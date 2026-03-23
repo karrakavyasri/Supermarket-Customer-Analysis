@@ -1,0 +1,15 @@
+CustomerID,Age,Annual_Income,Spending_Score,Product
+1,25,30000,40,Milk
+1,25,30000,40,Bread
+2,35,60000,70,Milk
+2,35,60000,70,Butter
+3,45,80000,85,Bread
+3,45,80000,85,Eggs
+4,23,20000,30,Snacks
+5,52,90000,90,Milk
+5,52,90000,90,Bread
+6,33,50000,60,Eggs
+6,33,50000,60,Butter
+7,28,40000,55,Milk
+8,41,75000,80,Bread
+8,41,75000,80,Butter
